@@ -1,0 +1,6 @@
+D:\c#\maze_Control\maze_Control\bin\Debug\maze_Control.exe.config
+D:\c#\maze_Control\maze_Control\bin\Debug\maze_Control.exe
+D:\c#\maze_Control\maze_Control\bin\Debug\maze_Control.pdb
+D:\c#\maze_Control\maze_Control\obj\Debug\maze_Control.csprojResolveAssemblyReference.cache
+D:\c#\maze_Control\maze_Control\obj\Debug\maze_Control.exe
+D:\c#\maze_Control\maze_Control\obj\Debug\maze_Control.pdb
